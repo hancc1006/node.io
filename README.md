@@ -1,1 +1,1 @@
-{"project":"Demo","version":"","description":"demoing","install":"","usage":"","test":"","username":"hancc1006","contribution":"Crystal"}
+{"project":"Demo","version":"","license":"demoing","description":"","install":"","usage":"","test":"","username":"hancc1006","contribution":"Crystal"}
